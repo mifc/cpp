@@ -11,7 +11,7 @@ int main()
     cout << "Podaj haslo: ";
     cin >> haslo;
 
-    if ((login=="admin")&&(haslo=="szarlotka"))
+    if ((login=="admin")&&(haslo=="szarlotka")) // chuj
     {
         cout<<"Udalo sie zalogowac!";
     }
