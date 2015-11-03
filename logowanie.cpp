@@ -17,7 +17,7 @@ int main()
     }
     else
     {
-        cout<<"nie udalo sie zalogowac!";
+        cout<<"nie udalo sie zalogowac!";    // chuj
     }
 
     return 0;
